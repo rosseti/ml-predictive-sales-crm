@@ -1,3 +1,7 @@
+# Local files
+regressao_tmv.jpg
+regressao_valor_previsto_venda.jpg
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
