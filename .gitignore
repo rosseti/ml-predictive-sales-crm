@@ -1,6 +1,6 @@
 # Local files
-regressao_tmv.jpg
-regressao_valor_previsto_venda.jpg
+regression_projected_sales_value.jpg
+regression_tmv.jpg
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
